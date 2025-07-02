@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Hackathon Winner – CodeSprint 2.0",
+    "organisation": "ABC Tech (National Level)",
+    "startDate": "March, 2024",
+    "endDate": "March, 2024",
+    "location": "India",
+    "experiences": [
+      "Won 1st place among 200+ teams.",
+      "Built a real-time food delivery tracker using MERN stack."
+    ],
+    "imageSrc": "company/images (3).png"
+  },
+  {
+    "id": 2,
+    "role": "Web Development Intern",
+    "organisation": "XYZ Technologies",
+    "startDate": "June, 2023",
+    "endDate": "August, 2023",
+    "location": "Jaipur, India",
+    "experiences": [
+      "Developed client websites using React and REST APIs.",
+      "Collaborated in building an admin dashboard using MongoDB and Node.js."
+    ],
+    "imageSrc": "company/web-development.png"
+  },
+  {
+    "id": 3,
+    "role": "Personal Projects (Freelance & Practice)",
+    "organisation": "Self-Initiated",
+    "startDate": "2023",
+    "endDate": "Present",
+    "location": "Remote",
+    "experiences": [
+      "Built Airbnb Clone, CodePulse platform, and Food Delivery app.",
+      "Worked on React, Node.js, MongoDB, Express, and real-time data flow."
+    ],
+    "imageSrc": "company/personal.png"
+  }
+]
